@@ -1,12 +1,12 @@
 
 
-# The Beginning
+## Blog Update # 1
 
-Had time to start a post so time to celebrate!
+Was able to find time to figure this out and start a post so time to celebrate!
 
 ![Kermit Celebrates](https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif)
 
-                                          - Verne Ornitier
+                                                 - Verne Ornitier
 
 
 
