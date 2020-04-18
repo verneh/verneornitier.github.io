@@ -5,6 +5,9 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-seo-tag
+  
+google_analytics: UA-60395648-1  
 
 permalink: /:year/:month/:day/:title/
 
