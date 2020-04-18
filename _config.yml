@@ -21,12 +21,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 2
+  limit: 1
   exclude:
     archived: false
     forks: true
     projects:
-     - datasci
+     
 
 social_media:
   # behance: your_username
