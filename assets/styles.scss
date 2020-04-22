@@ -39,7 +39,8 @@
   }
   
   img.animated-gif {
-    width: 360px;
+//     width: 360px;
+    max-width: auto;
     height: auto;
   }
 
