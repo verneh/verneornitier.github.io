@@ -28,7 +28,7 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
+    projects: eskwelabs
      
 
 social_media:
